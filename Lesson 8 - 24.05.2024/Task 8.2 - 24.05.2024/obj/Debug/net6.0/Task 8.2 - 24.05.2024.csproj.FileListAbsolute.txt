@@ -1,0 +1,15 @@
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\bin\Debug\net6.0\Task 8.2 - 24.05.2024.exe
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\bin\Debug\net6.0\Task 8.2 - 24.05.2024.deps.json
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\bin\Debug\net6.0\Task 8.2 - 24.05.2024.runtimeconfig.json
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\bin\Debug\net6.0\Task 8.2 - 24.05.2024.dll
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\bin\Debug\net6.0\Task 8.2 - 24.05.2024.pdb
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\obj\Debug\net6.0\Task 8.2 - 24.05.2024.csproj.AssemblyReference.cache
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\obj\Debug\net6.0\Task 8.2 - 24.05.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\obj\Debug\net6.0\Task 8.2 - 24.05.2024.AssemblyInfoInputs.cache
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\obj\Debug\net6.0\Task 8.2 - 24.05.2024.AssemblyInfo.cs
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\obj\Debug\net6.0\Task 8.2 - 24.05.2024.csproj.CoreCompileInputs.cache
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\obj\Debug\net6.0\Task 8.2 - 24.05.2024.dll
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\obj\Debug\net6.0\refint\Task 8.2 - 24.05.2024.dll
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\obj\Debug\net6.0\Task 8.2 - 24.05.2024.pdb
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\obj\Debug\net6.0\Task 8.2 - 24.05.2024.genruntimeconfig.cache
+C:\Users\abbascb\source\repos\Lesson 8 - 24.05.2024\Task 8.2 - 24.05.2024\obj\Debug\net6.0\ref\Task 8.2 - 24.05.2024.dll
